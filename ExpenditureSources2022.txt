@@ -1,0 +1,6 @@
+Source,Amount
+Gym,191.36
+Food,390.82
+RecreationalActivities,611.22
+Family,453.33
+School,600.19

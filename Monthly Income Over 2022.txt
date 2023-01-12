@@ -1,0 +1,13 @@
+Month,Monthly Income
+Jan,0
+Feb,139.68
+Mar,321.77
+Apr,142.11
+May,75
+June,226.29
+July,256.04
+Aug,266
+Sept,257.38
+Oct,56.95
+Nov,107.95
+Dec,400
